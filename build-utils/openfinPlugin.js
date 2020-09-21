@@ -1,4 +1,4 @@
-const { launch } = require('hadouken-js-adapter');
+const { launch } = require('openfin-adapter');
 
 let firstLaunch = true;
 module.exports = class OpenFinPlugin {
