@@ -5,3 +5,4 @@ local/*
 */app.json
 **/*.d.ts
 !modules.d.ts
+lowdb
